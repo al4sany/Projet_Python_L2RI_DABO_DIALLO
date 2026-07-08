@@ -48,7 +48,7 @@ projet_bu/
 
 ---
 
-## ⚙️ Installation et Exécution
+## Installation et Exécution
 
 1. **Se positionner dans le dossier** :
    ```bash
